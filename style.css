@@ -1,0 +1,83 @@
+
+
+.box {
+    display: flex;
+}
+
+.box1 {
+    height: 310px;
+    width: 308px;
+    border: 1px solid black;
+}
+
+.inbox {
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    margin: 50px;
+}
+
+.ininbox1 {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    margin-top: 25px;
+    margin-left: 25px;
+    border-radius: 50%;
+}
+.ininbox2 {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    margin-top: -50px;
+    margin-left: 125px;
+    border-radius: 50%;
+}
+.ininbox3 {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    margin-left: 25px;
+    margin-top: 45px;
+    border-radius: 50%;   
+}
+.ininbox4 {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    margin-top: -50px;
+    margin-left: 125px;
+    border-radius: 50%;
+}
+
+.sbox1{
+    height: 50.2px;
+    width: 50px;
+    border: 1px solid black;   
+}
+
+.home {
+    display: flex;
+
+}
+
+.box3 {
+    flex-direction: column;   
+}
+
+.fa-solid fa-star {
+    align-items: center;
+}
+
+.sbox2{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;   
+}
+
+.homebox {
+    height: 154px;
+    width: 153.5px;
+    border: 1px solid black;  
+    text-align: center;
+}
